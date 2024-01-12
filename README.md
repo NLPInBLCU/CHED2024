@@ -32,7 +32,7 @@
 
 ![schema](https://github.com/NLPInBLCU/CHED2024/assets/45780284/d03f4c4e-bbcf-4859-a47e-aaf093d94cec)
 
-详见 Schema 文件：[Classical Chinese Historical Event Schema.jsonl]()
+详见 Schema 文件：[Classical Chinese Historical Event Schema.jsonl](https://github.com/NLPInBLCU/CHED2024/blob/main/Classical%20Chinese%20Historical%20Event%20Schema.jsonl)
 
 ## 二、 评测数据
 我们从《二十四史》中选取了13159句语料进行标注，最后构建出了包含8122个有效事件实例的数据集CHED，各史书以及训练集、验证集、测试集的数据分布如下表所示：
