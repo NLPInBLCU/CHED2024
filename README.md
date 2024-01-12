@@ -79,6 +79,23 @@
 |      | Exact-match-score                      |
 | 总分计算 | （BLEU + ROUGE + Exact-match-score）/ 3​ |
 
+<table>
+    <tr>
+        <td rowspan="3">评价指标</td>
+        <td>BLEU（2-gram）</td>
+    </tr>
+    <tr>
+        <td>ROUGE（2-gram）</td>
+    </tr>
+    <tr>
+        <td>Exact-match-score</td>
+    </tr>
+    <tr>
+        <td>总分计算</td>
+        <td>（BLEU + ROUGE + Exact-match-score）/ 3</td>
+    </tr>
+</table>
+
 ### 子任务二：事件类型判别（得分占整个任务60%）
 
 参赛者需提交一个包含每个触发词及其预测的事件类型的结果文件。我们构建的事件类型体系一共包含9大类、67小类，子任务二被分为粗粒度（9大类）和细粒度（67小类），并使用宏平均（macro-average）和微平均（micro-average）两个指标进行评估。
