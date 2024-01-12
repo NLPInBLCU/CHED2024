@@ -22,7 +22,9 @@
 #### 子任务二：事件类型判别（Event Type Classification）                                                               
 我们构建了一个具有层级逻辑性的事件类型体系（见Classical Chinese Historical Event Schema.jsonl），此任务需要参考给定的事件类型体系，为每个触发词确定其所属的事件类型。
 
+<div align=center>
 <img width="211" alt="image" src="https://github.com/NLPInBLCU/CHED2024/assets/45780284/e64f13b7-c966-43d7-9c86-37e265b58f0f">
+</div>
 
 举例来说，在句子“进军建德，擒贼帅赵桑干。”中，“进军”这个词可以表示“派兵到建德”这个事件，“擒”这个词可以表示“抓住敌方的将领赵桑干”这个事件。因此在这个句子中，触发词是“进军”和“擒”，分别代表“军事-备战-出兵”和“军事-作战-俘虏”这两个事件类型。
 
@@ -30,7 +32,7 @@
 
 ![schema](https://github.com/NLPInBLCU/CHED2024/assets/45780284/d03f4c4e-bbcf-4859-a47e-aaf093d94cec)
 
-Classical Chinese Historical Event Schema.jsonl
+详见 Schema 文件：[Classical Chinese Historical Event Schema.jsonl]()
 
 ## 二、 评测数据
 我们从《二十四史》中选取了13159句语料进行标注，最后构建出了包含8122个有效事件实例的数据集CHED，各史书以及训练集、验证集、测试集的数据分布如下表所示：
@@ -97,20 +99,12 @@ Classical Chinese Historical Event Schema.jsonl
 
 ## 四、参考文献
 [1] Wei Congcong, Feng Zhenbing, Huang Shutan, Li Wei, and Shao Yanqiu. 2023. CHED: A Cross-Historical Dataset with a Logical Event Schema for Classical Chinese Event Detection. In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pages 875–888, Harbin, China. Chinese Information Processing Society of China.
-
 [2] Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, and Maosong Sun. 2022. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. In Findings of the Association for Computational Linguistics: ACL 2022, pages 183–201, Dublin, Ireland. Association for Computational Linguistics.
-
 [3] Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, and Jie Zhou. 2020. MAVEN: A Massive General Domain Event Detection Dataset. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1652–1671, Online. Association for Computational Linguistics.
-
 [4] Doddington, G. R., Mitchell, A., Przybocki, M. A., Ramshaw, L. A., Strassel, S. M., & Weischedel, R. M. (2004, May). The automatic content extraction (ace) program-tasks, data, and evaluation. In Lrec (Vol. 2, No. 1, pp. 837-840).
-
 [5] Jacqueline Aguilar, Charley Beller, Paul McNamee, Benjamin Van Durme, Stephanie Strassel, Zhiyi Song, and Joe Ellis. 2014. A Comparison of the Events and Relations Across ACE, ERE, TAC-KBP, and FrameNet Annotation Standards. In Proceedings of the Second Workshop on EVENTS: Definition, Detection, Coreference, and Representation, pages 45–53, Baltimore, Maryland, USA. Association for Computational Linguistics.
-
 [6] Q. Li et al., "A Survey on Deep Learning Event Extraction: Approaches and Applications," in IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3213168.
-
 [7] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4171–4186, Minneapolis, Minnesota. Association for Computational Linguistics.
-
 [8] Sepp Hochreiter, Jürgen Schmidhuber; Long Short-Term Memory. Neural Comput 1997; 9 (8): 1735–1780. doi: https://doi.org/10.1162/neco.1997.9.8.1735
-
 [9] Y. Cao and A. Yusup, "Chinese Electronic Medical Record Named Entity Recognition based on BERT-WWM-IDCNN-CRF," 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Wulumuqi, China, 2022, pp. 582-589, doi: 10.1109/DSA56465.2022.00084.
 
