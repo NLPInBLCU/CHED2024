@@ -73,12 +73,6 @@
 
 参赛者需提交一个包含每个句子中触发词的位置信息的结果文件。
 
-| 评价指标 | BLEU（2-gram）                           |
-|:------:|:----------------------------------------:|
-|      | ROUGE（2-gram）                          |
-|      | Exact-match-score                      |
-| 总分计算 | （BLEU + ROUGE + Exact-match-score）/ 3​ |
-
 <table>
     <tr>
         <td rowspan="3">评价指标</td>
@@ -109,6 +103,34 @@
 |      | Micro Recall =所有实例的正确判别数量 / 所有可能的实例数量             |
 |      | Micro F1 =（2 * Mi F1 * Mi R） /  (Mi F1 + Mi R)    |
 | 总分计算 | （Macro F1 + Micro F1）/ 2                          |
+
+<table>
+    <tr>
+        <td rowspan="3">宏平均</td>
+        <td>Macro Precision = Σ (每个大/小类的精确度)  / （大/小类的总数9/67）</td>
+    </tr>
+    <tr>
+        <td>Macro Recall = Σ (每个大/小类的召回率)  / （大/小类的总数9/67）</td>
+    </tr>
+    <tr>
+        <td>Macro F1 = Σ (每个大/小类的 F1 值)  / （大/小类的总数9/67）</td>
+    </tr>
+    <tr>
+        <td rowspan="3">微平均</td>
+        <td>Micro Precision = 所有实例的正确判别数量 / 所有实例的判别数量</td>
+    </tr>
+    <tr>
+        <td>Micro Recall = 所有实例的正确判别数量 / 所有可能的实例数量</td>
+    </tr>
+    <tr>
+        <td>Micro F1 =（2 * Mi F1 * Mi R） /  (Mi F1 + Mi R)</td>
+    </tr>
+    <tr>
+        <td>总分计算</td>
+        <td>（Macro F1 + Micro F1）/ 2</td>
+    </tr>
+</table>
+
 
 ### 综合评价标准
 
