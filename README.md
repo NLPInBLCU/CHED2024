@@ -148,7 +148,7 @@
 [9] Y. Cao and A. Yusup, "Chinese Electronic Medical Record Named Entity Recognition based on BERT-WWM-IDCNN-CRF," 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Wulumuqi, China, 2022, pp. 582-589, doi: 10.1109/DSA56465.2022.00084.
 
 ## 五、报名方式
-请您点击报名链接(https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)或者扫描下方二维码进行报名。
+请您点击报名链接 (https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy) 或者扫描下方二维码进行报名。
 ![65d57cc18c574c52f949888799a7d07](https://github.com/NLPInBLCU/CHED2024/assets/116528991/9aa626ed-4fa2-407f-bd97-b3102f6ff33e)
 
 ## 六、评测赛程
