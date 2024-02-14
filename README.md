@@ -6,7 +6,7 @@
 * 联系人及联系方式：冯振冰blcu_lcclab@163.com
 
 ## 更新
-2024/2/14：请您点击报名链接(https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)进行报名。
+2024/2/14：请您点击报名链接 (https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy) 进行报名。
 
 ## 一、任务内容
 
