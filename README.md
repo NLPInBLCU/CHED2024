@@ -149,9 +149,11 @@
 
 ## 五、报名方式
 请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  或者扫描下方二维码进行报名。
+
 ![65d57cc18c574c52f949888799a7d07](https://github.com/NLPInBLCU/CHED2024/assets/116528991/9aa626ed-4fa2-407f-bd97-b3102f6ff33e)
 
 ## 六、评测赛程
+后续具体评测赛程将在此任务网址进行更新，请您及时关注。
 | 时间 | 事项  | 
 |:----:|:------:|
 |2月15日~ 4月1日  |开放报名 |
