@@ -128,7 +128,26 @@
 
 0.4 * 任务一得分 + 0.3 * 任务二粗粒度得分 + 0.3 * 任务二细粒度得分
 
-## 四、参考文献
+
+## 四、报名方式
+请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  或者扫描下方二维码进行报名。
+
+![65d57cc18c574c52f949888799a7d07](https://github.com/NLPInBLCU/CHED2024/assets/116528991/9aa626ed-4fa2-407f-bd97-b3102f6ff33e)
+
+## 五、评测赛程
+后续具体评测赛程将在此任务网址进行更新，请您及时关注。
+| 时间 | 事项  | 
+|:----:|:------:|
+|2月15日~ 4月1日  |开放报名 |
+|3月1日  |训练集发布时间  |
+
+（以上时间可能还会有调整，请关注网站最新消息）
+
+
+## 六、奖项设置
+本次评测将设置一、二、三等奖，中文信息学会为本次评测获奖队伍提供的荣誉证书。
+
+## 七、参考文献
 [1] Wei Congcong, Feng Zhenbing, Huang Shutan, Li Wei, and Shao Yanqiu. 2023. CHED: A Cross-Historical Dataset with a Logical Event Schema for Classical Chinese Event Detection. In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pages 875–888, Harbin, China. Chinese Information Processing Society of China.
 
 [2] Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, and Maosong Sun. 2022. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. In Findings of the Association for Computational Linguistics: ACL 2022, pages 183–201, Dublin, Ireland. Association for Computational Linguistics.
@@ -146,18 +165,3 @@
 [8] Sepp Hochreiter, Jürgen Schmidhuber; Long Short-Term Memory. Neural Comput 1997; 9 (8): 1735–1780. doi: https://doi.org/10.1162/neco.1997.9.8.1735
 
 [9] Y. Cao and A. Yusup, "Chinese Electronic Medical Record Named Entity Recognition based on BERT-WWM-IDCNN-CRF," 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Wulumuqi, China, 2022, pp. 582-589, doi: 10.1109/DSA56465.2022.00084.
-
-## 五、报名方式
-请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  或者扫描下方二维码进行报名。
-
-![65d57cc18c574c52f949888799a7d07](https://github.com/NLPInBLCU/CHED2024/assets/116528991/9aa626ed-4fa2-407f-bd97-b3102f6ff33e)
-
-## 六、评测赛程
-后续具体评测赛程将在此任务网址进行更新，请您及时关注。
-| 时间 | 事项  | 
-|:----:|:------:|
-|2月15日~ 4月1日  |开放报名 |
-|3月1日  |训练集发布时间  |
-
-## 七、奖项设置
-中文信息学会为本次评测获奖队伍提供的荣誉证书。
