@@ -33,9 +33,11 @@
 
 ### 3.事件类型体系
 
+详见 Schema 文件：[Classical Chinese Historical Event Schema.jsonl](https://github.com/NLPInBLCU/CHED2024/blob/main/Classical%20Chinese%20Historical%20Event%20Schema.jsonl)
+
 ![schema](https://github.com/NLPInBLCU/CHED2024/assets/45780284/d03f4c4e-bbcf-4859-a47e-aaf093d94cec)
 
-详见 Schema 文件：[Classical Chinese Historical Event Schema.jsonl](https://github.com/NLPInBLCU/CHED2024/blob/main/Classical%20Chinese%20Historical%20Event%20Schema.jsonl)
+
 
 ## 二、 评测数据
 我们从《二十四史》中选取了13159句语料进行标注，最后构建出了包含8122个有效事件实例的数据集CHED，各史书以及训练集、验证集、测试集的数据分布如下表所示：
@@ -131,7 +133,9 @@
 
 ## 四、报名方式
 请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  或者扫描下方二维码进行报名。
-<img src="![46f00e36e801a5d6af7b592217e6de9](https://github.com/NLPInBLCU/CHED2024/assets/116528991/20c6d3d5-68e8-4a3d-ac5e-5d6090f1c63a)" width="100" height="100">
+
+![alt text](![46f00e36e801a5d6af7b592217e6de9](https://github.com/NLPInBLCU/CHED2024/assets/116528991/e45f0417-5934-4b15-a932-618e4ddfd54d)
+?s=100)
 
 
 ## 五、评测赛程
