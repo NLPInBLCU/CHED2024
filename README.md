@@ -5,10 +5,29 @@
 * 负责人及联系方式：冯振冰blcu_lcclab@163.com
 * 联系人及联系方式：冯振冰blcu_lcclab@163.com
 
-## 更新
+### 更新
 2024/2/14：请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy) 进行报名。
 
-## 一、任务内容
+### 目录
+ [一、任务内容](#一任务内容)
+ 
+ [二、评测数据](#二评测数据)
+ 
+ [三、评价标准](#三评价标准)
+ 
+ [四、报名方式](#四报名方式)
+ 
+ [五、评测赛程](#五评测赛程)
+ 
+ [六、结果提交](#六结果提交)
+ 
+ [七、奖项设置](#七奖项设置)
+ 
+ [八、参考文献](#八参考文献)
+ 
+
+## 一、[任务内容](#任务内容)
+
 
 ### 1. 任务背景
 
@@ -39,7 +58,8 @@
 
 
 
-## 二、 评测数据
+## 二、[评测数据](#评测数据)
+
 我们从《二十四史》中选取了13159句语料进行标注，最后构建出了包含8122个有效事件实例的数据集CHED，各史书以及训练集、验证集、测试集的数据分布如下表所示：
 
 |   | 史书  | 训练集  | 验证集  | 测试集  | 总计   |
@@ -70,7 +90,8 @@
 | 24 | 旧五代史 | 221  | 41   | 50   | 312  |
 |    |      | 5650 | 1218 | 1254 | 8122 |
 
-## 三、评价标准
+## 三、[评价标准](#评价标准)
+
 
 参赛者在测试集上参与评测。
 
@@ -131,16 +152,17 @@
 0.4 * 任务一得分 + 0.3 * 任务二粗粒度得分 + 0.3 * 任务二细粒度得分
 
 
-## 四、报名方式
-
-请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  或者扫描下方二维码进行报名。
-
-![image](https://github.com/NLPInBLCU/CHED2024/assets/116528991/d71c2680-bce7-43f6-b5b6-25053168cb8a)
+## 四、[报名方式](#报名方式)
 
 
+请您点击[报名链接](https://docs.qq.com/form/page/DQXlkbUhERmlUVUFy)  进行报名。
+
+报名成功后加入评测交流QQ群：762336909 可进行交流答疑。
 
 
-## 五、评测赛程
+## 五、[评测赛程](#评测赛程)
+
+
 后续具体评测赛程将在此任务网址进行更新，请您及时关注。（以下时间可能还会有调整，请关注网站最新消息）
 
 | 时间             | 事项                                                         |
@@ -158,12 +180,23 @@
 | 7月1日          | 论文Camera Ready提交                                          |
 | 7月25日~28日    | CCL 2024评测研讨会（获奖队伍需做技术报告）                     |
 
+## 六、[结果提交](#结果提交)
 
 
-## 六、奖项设置
+参赛队伍在测试集上参与评测，结果集使用各个任务训练集的数据格式，将结果集文件以压缩包的形式上传至[结果提交平台](https://docs.qq.com/form/page/DQWNMcUpJeFdFYWxk)。
+
+压缩包文件命名格式：参赛队伍名称 + CCL2024-Eval CHED评测结果集
+
+
+
+## 七、[奖项设置](#奖项设置)
+
+
 本次评测将设置一、二、三等奖，中文信息学会为本次评测获奖队伍提供的荣誉证书。
 
-## 七、参考文献
+## 八、[参考文献](#参考文献)
+
+
 [1] Wei Congcong, Feng Zhenbing, Huang Shutan, Li Wei, and Shao Yanqiu. 2023. CHED: A Cross-Historical Dataset with a Logical Event Schema for Classical Chinese Event Detection. In Proceedings of the 22nd Chinese National Conference on Computational Linguistics, pages 875–888, Harbin, China. Chinese Information Processing Society of China.
 
 [2] Feng Yao, Chaojun Xiao, Xiaozhi Wang, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, and Maosong Sun. 2022. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. In Findings of the Association for Computational Linguistics: ACL 2022, pages 183–201, Dublin, Ireland. Association for Computational Linguistics.
