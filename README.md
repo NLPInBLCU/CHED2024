@@ -10,6 +10,8 @@
 
 2024/03/05：各任务的训练集、验证集已发布，详见 datasets 文件仓。
 
+2024/03/26：请需要算力支持的队伍填写[注册信息收集表](https://docs.qq.com/form/page/DQU5LSmRXZGNTd0VW)，详细赞助信息见[评测官网](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html)
+
 ### 目录
  <a href="#一任务内容">一、任务内容</a>
 
